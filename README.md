@@ -176,7 +176,7 @@ const hady: Developer = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="992" height="1403" alt="Red and Black Illustrated Cybercrime Prevention Poster" src="https://github.com/user-attachments/assets/00098820-404e-48fc-be01-14ed4075979d" />
 
 <!-- ██████████████████████████████████████████████████ -->
 <!--            FEATURED PROJECTS (OPTIONAL)            -->
