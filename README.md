@@ -251,7 +251,7 @@ const hady: Developer = {
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/hadymohamed/hadymohamed/output/github-contribution-grid-snake-dark.svg)
+
 
 <br/>
 
