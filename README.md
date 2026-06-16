@@ -220,13 +220,13 @@ const hady: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0d1117)](https://linkedin.com/in/hadymohamed)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff66&labelColor=0d1117)](https://.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff66&labelColor=0d1117)](https://hadymohamed.dev)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0d1117)](mailto:hady@example.com)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=00ff66&labelColor=0d1117)](https://twitter.com/HadyMohamed_1)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=00ff66&labelColor=0d1117)](https://twitter.com/hadymohamed)
 &nbsp;
-[![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00f0ff&labelColor=0d1117)](https://dev.to/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00f0ff&labelColor=0d1117)](https://dev.to/hadymohamed)
 
 </div>
 
@@ -249,7 +249,17 @@ const hady: Developer = {
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
- 
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/hadymohamed/hadymohamed/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff66,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+<!-- 
 ═══════════════════════════════════════════════════════════════
   PERSONALIZATION CHECKLIST — replace all placeholder values:
 ═══════════════════════════════════════════════════════════════
