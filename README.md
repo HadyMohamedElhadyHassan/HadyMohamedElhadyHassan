@@ -169,7 +169,7 @@ const hady: Developer = {
 <div align="center">
 
 
-<img width="90" height="1403" alt="Red and Black Illustrated Cybercrime Prevention Poster" src="https://github.com/user-attachments/assets/522d05e2-e842-4df2-aa0b-1ea9593c3db1" />
+<img width="90%" height="1403" alt="Red and Black Illustrated Cybercrime Prevention Poster" src="https://github.com/user-attachments/assets/522d05e2-e842-4df2-aa0b-1ea9593c3db1" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=hadymohamed&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7" />
