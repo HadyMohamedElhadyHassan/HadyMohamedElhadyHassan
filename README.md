@@ -182,26 +182,6 @@ const hady: Developer = {
 <!--            FEATURED PROJECTS (OPTIONAL)            -->
 <!-- ██████████████████████████████████████████████████ -->
 
-<h2>
-  🚀&nbsp; Featured Projects
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/hadymohamed/project-one">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hadymohamed&repo=project-one&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/hadymohamed/project-two">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hadymohamed&repo=project-two&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-> 💡 **Tip:** Replace `project-one` and `project-two` with your actual repository names.
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
